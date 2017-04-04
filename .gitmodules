@@ -1,0 +1,6 @@
+[submodule "deps/cmp"]
+	path = deps/cmp
+	url = https://github.com/camgunz/cmp.git
+[submodule "deps/lz4"]
+	path = deps/lz4
+	url = https://github.com/lz4/lz4.git

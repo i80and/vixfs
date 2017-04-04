@@ -1,0 +1,12 @@
+VixFS is designed to fulfill the following design goals:
+
+* Conceptual simplicity,
+* Security,
+* High read throughput and low read latency,
+* Support for both BSD and POSIX locks, and
+* General purpose utility
+
+all-reads
+    There are only readers.
+
+multi
